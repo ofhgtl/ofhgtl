@@ -1,4 +1,4 @@
-# Hey, I'm Jacob
+# Hey, I'm ofhgtl
 
 <a href="https://github.com/ofhgtl"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=FF3B3B&vCenter=true&width=700&lines=while(noSuccess)+%7B+tryAgain()%3B+if(Dead)+break%3B+%7D;Building+bots%2C+mostly." alt="while(noSuccess) { tryAgain(); if(Dead) break; }" /></a>
 
